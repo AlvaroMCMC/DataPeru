@@ -1,5 +1,5 @@
 baseURL: https://dataperu.netlify.app/
-title: Data Perú
+title: Data Practice
 theme: hugo-theme-m10c
 paginate: 8
 menu:
@@ -17,8 +17,8 @@ menu:
       url: /about/
       weight: 3
 params:
-  author: Alvaro M.
-  description: Análisis de datos del Perú
+  author: Alvaro M. C.
+  description: Práctica con Datos
   menu_item_separator: ' - '
   social:
     - icon: github
