@@ -1,5 +1,5 @@
 baseURL: https://dataperu.netlify.app/
-title: Data Practice
+title: Blog Personal
 theme: hugo-theme-m10c
 paginate: 8
 menu:
@@ -18,7 +18,7 @@ menu:
       weight: 3
 params:
   author: Alvaro M. C.
-  description: Práctica con Datos
+  description: Blog personal con herramientas y procesos útiles con el lenguaje de programación R, Word, Excel, Power Point y VBA.
   menu_item_separator: ' - '
   social:
     - icon: github
